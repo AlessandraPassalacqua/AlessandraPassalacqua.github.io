@@ -24,8 +24,8 @@ Education
 * Bachelor’s degree in Physics, 2017 - 2020
   * Sapienza Università di Roma, Rome, Italy 
   * Level: Undergraduate (180 ECTS)
-  #* Thesis title: Ising model on a complete graph: the Curie-Weiss model and the 3-spin interaction model
-  #* Thesis advisor: Prof. Federico Ricci-Tersenghi
+  #Thesis title: Ising model on a complete graph: the Curie-Weiss model and the 3-spin interaction model
+  #Thesis advisor: Prof. Federico Ricci-Tersenghi
 
   
 IT Skills
