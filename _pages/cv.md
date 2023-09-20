@@ -11,49 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Statistics and Computer Science, 2023 - present
+  Università Bocconi, Milano, Italy
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Master’s degree in Theoretical Physics, 2020 - 2023
+  Sapienza Università di Roma, Rome, Italy 
+  Level: Graduate (120 ECTS)
+  Main field of interest: Statistical mechanics of disordered systems
+  Thesis title: Complexity of the free energy landscape of mixed spherical spin models with quenched disorder
+  Thesis advisor: Prof. Luca Leuzzi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bachelor’s degree in Physics, 2017 - 2020
+  Sapienza Università di Roma, Rome, Italy 
+  Level: Undergraduate (180 ECTS)
+  Thesis title: Ising model on a complete graph: the Curie-Weiss model and the 3-spin interaction model
+  Thesis advisor: Prof. Federico Ricci-Tersenghi
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+IT Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming languages: C++, Python
+* Development environments: R, Mathematica, Matlab
+* Document production: LaTeX
+
