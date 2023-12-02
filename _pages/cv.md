@@ -15,15 +15,13 @@ Education
   * Università Bocconi, Milano, Italy
 
 * Master’s degree in Theoretical Physics, 2020 - 2023
-  * Sapienza Università di Roma, Rome, Italy 
-  * Level: Graduate (120 ECTS)
+  * Sapienza Università di Roma, Rome, Italy
   * Main field of interest: Statistical mechanics of disordered systems
   * Thesis title: Complexity of the free energy landscape of mixed spherical spin models with quenched disorder
   * Thesis advisor: Prof. Luca Leuzzi
 
 * Bachelor’s degree in Physics, 2017 - 2020
   * Sapienza Università di Roma, Rome, Italy 
-  * Level: Undergraduate (180 ECTS)
 
   
 IT Skills
