@@ -19,10 +19,3 @@ Education
 
 * Bachelor’s degree in Physics, 2017 - 2020, Sapienza Università di Roma, Italy 
 
-  
-IT Skills
-======
-* Programming languages: C++, Python
-* Development environments: R, Mathematica, Matlab
-* Document production: LaTeX
-
